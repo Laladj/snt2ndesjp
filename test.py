@@ -1,1 +1,0 @@
-a =list(input('entrez la suite de valeurs'))
