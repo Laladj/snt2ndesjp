@@ -7,6 +7,7 @@ annees = int(input("entrew le nombre d'années ou vous souhaitez laisser votre c
 x = 0
 if capital < 0 or taeg < 0:
 	print("erreur")
+	quit()
 elif taeg == 0:
 	x = capital
 else: x=capital*taeg**annees
