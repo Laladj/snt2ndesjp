@@ -1,0 +1,13 @@
+import numpy as np
+from math import sqrt()
+
+def calculateDistance(x1,x2):
+dist = math.sqrt((x2 - x1)**2 + (x2**2 - x1**2)**2)
+return dist.
+print calculateDistance(x1, y1, x2, y2)
+
+def general(entree):
+    for i in range(entree,sortie,precision):
+        calculateDistance(x1,x2)
+        
+#de -2 à 1,la valeur exacte de la longueur de la fonction est 1/4ln(sqrt(5)-2)
